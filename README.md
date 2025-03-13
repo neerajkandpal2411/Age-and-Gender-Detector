@@ -26,7 +26,7 @@ The **Age & Gender Detector** is an AI-powered application that utilizes deep le
 📦 Age-Gender-Detector
  ┣ 📂 models          # Pre-trained models
  ┣ 📂 images          # Sample input images
- ┣ 📂 videos          # Sample input videos
+ ┣ 📂 dataset         # Sample dataset
  ┣ 📜 age_gender_detector.py  # Main script
  ┣ 📜 requirements.txt  # Dependencies
  ┣ 📜 README.md         # Project documentation
